@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "image": "https://via.placeholder.com/150?text=Compost",
+    "category": "Soil Preparation",
+    "difficulty_level": "easy",
+    "tips_title": "Make Your Own Compost",
+    "description": "Composting kitchen scraps and yard waste can enrich your soil and reduce the need for chemical fertilizers.",
+    "author": "Alice Green"
+  },
+  {
+    "id": 2,
+    "image": "https://via.placeholder.com/150?text=Succulents",
+    "category": "Plant Care",
+    "difficulty_level": "medium",
+    "tips_title": "Caring for Succulents",
+    "description": "Water only when the soil is dry and provide plenty of sunlight for healthy growth.",
+    "author": "Mark Bloom"
+  },
+  {
+    "id": 3,
+    "image": "https://via.placeholder.com/150?text=Balcony+Garden",
+    "category": "Container Gardening",
+    "difficulty_level": "medium",
+    "tips_title": "Start a Balcony Herb Garden",
+    "description": "Use compact containers and vertical shelves to grow herbs in small spaces.",
+    "author": "Sara Oakley"
+  },
+  {
+    "id": 4,
+    "image": "https://via.placeholder.com/150?text=Tropical+Trees",
+    "category": "Tree Care",
+    "difficulty_level": "hard",
+    "tips_title": "Protect Young Fruit Trees",
+    "description": "Stake your trees and apply mulch to protect roots and encourage deep watering.",
+    "author": "Tom Rivera"
+  },
+  {
+    "id": 5,
+    "image": "https://via.placeholder.com/150?text=Flowers",
+    "category": "Floral Gardening",
+    "difficulty_level": "easy",
+    "tips_title": "Perennials That Thrive Year-Round",
+    "description": "Choose native perennials for your region to ensure long-term blooms and low maintenance.",
+    "author": "Linda Woods"
+  },
+  {
+    "id": 6,
+    "image": "https://via.placeholder.com/150?text=Rooftop+Garden",
+    "category": "Urban Gardening",
+    "difficulty_level": "hard",
+    "tips_title": "Building a Rooftop Garden",
+    "description": "Ensure proper drainage, structural support, and lightweight soil mix for rooftop gardening.",
+    "author": "James Lee"
+  },
+  {
+    "id": 7,
+    "image": "https://via.placeholder.com/150?text=Hydroponics",
+    "category": "Indoor Gardening",
+    "difficulty_level": "hard",
+    "tips_title": "Start with Simple Hydroponics",
+    "description": "Try the Kratky method for a no-pump, passive hydroponic system that's easy to maintain.",
+    "author": "Rita Patel"
+  },
+  {
+    "id": 8,
+    "image": "https://via.placeholder.com/150?text=Desert+Plants",
+    "category": "Xeriscaping",
+    "difficulty_level": "medium",
+    "tips_title": "Water-Efficient Landscaping",
+    "description": "Use native desert plants and gravel mulch to minimize water usage and maintenance.",
+    "author": "Carlos Mendez"
+  },
+  {
+    "id": 9,
+    "image": "https://via.placeholder.com/150?text=Herbs",
+    "category": "Herb Gardening",
+    "difficulty_level": "easy",
+    "tips_title": "Grow Herbs on a Windowsill",
+    "description": "Basil, mint, and parsley thrive indoors with just a little sunlight and watering.",
+    "author": "Emma Johnson"
+  },
+  {
+    "id": 10,
+    "image": "https://via.placeholder.com/150?text=Lawn+Care",
+    "category": "Lawn Maintenance",
+    "difficulty_level": "medium",
+    "tips_title": "Seasonal Lawn Fertilization",
+    "description": "Fertilize your lawn in spring and fall to promote healthy, green growth all year.",
+    "author": "Noah White"
+  }
+]
