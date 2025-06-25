@@ -1,6 +1,6 @@
 # 🌱 GreenWorld Gardening Community
 
-![GreenWorld Screenshot](./greenworld-screenshot.jpeg)
+![GreenWorld Screenshot](./home.jpeg.jpeg)
 
 ## 📝 Overview
 
